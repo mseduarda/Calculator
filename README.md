@@ -14,7 +14,7 @@
 
 ```bash
     # Clone the project
-    $ git clone https://github.com/meduardaoliveira/Calculator.git
+    $ git clone https://github.com/mseduarda/Calculator.git
 ```
 ```bash
     # Enter directory
